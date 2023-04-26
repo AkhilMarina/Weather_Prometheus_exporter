@@ -31,7 +31,7 @@ pip install requests prometheus_client
 API_KEY = 'your_api_key_here'
 ```
 
-You can obtain an API key by signing up at [OpenWeatherMap](https://openweathermap.org/).
+  You can obtain an API key by signing up at [OpenWeatherMap](https://openweathermap.org/).
 
 3. Replace the `CITY` variable with the desired city and its corresponding city ID:
 
@@ -39,7 +39,7 @@ You can obtain an API key by signing up at [OpenWeatherMap](https://openweatherm
 CITY = 'City_name,City_ID'
 ```
 
-You can find the city ID in the [OpenWeatherMap city list](http://bulk.openweathermap.org/sample/).
+  You can find the city ID in the [OpenWeatherMap city list](http://bulk.openweathermap.org/sample/).
 
 4. (Optional) Adjust the `INTERVAL` variable to control the frequency of data fetching (in seconds):
 
