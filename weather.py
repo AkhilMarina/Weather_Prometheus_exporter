@@ -3,7 +3,7 @@ import requests
 from prometheus_client import start_http_server, Gauge
 
 # Replace with your OpenWeatherMap API key
-API_KEY = '416e6ef4cb5c05d4f2725eb40fa55a48'
+API_KEY = 'your_api_key'
 
 # Replace with the city and country code you want to fetch the weather data for
 CITY = 'London,2643743'
